@@ -12,6 +12,6 @@ make
 ```
 **Build and Run google tests**
 ```
-make gtests
+make tests
 ./tests
 ```
