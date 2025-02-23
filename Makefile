@@ -3,7 +3,7 @@ CXXFLAGS = -std=c++20 -Wall -Werror -Wpedantic -O2
 TESTFLAGS = -lgtest -lgtest_main -lpthread
 
 TEST_SRC = tests.cpp
-TEST_TARGET = tests
+TEST_TARGET = gtests
 
 all:
 
