@@ -1,4 +1,4 @@
-# **lab-2, Card RPG*
+# *lab-2, Card RPG*
 
 Кушнир Артем, 24.Б81 
 
