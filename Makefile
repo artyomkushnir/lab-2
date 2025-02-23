@@ -2,7 +2,7 @@ CXX = g++
 CXXFLAGS = -Wall -Werror -Wpedantic -g 
 TESTFLAGS = -lgtest -lgmock -pthread
 
-TEST_SRC = tests/tests.cpp
+TEST_SRC = tests.cpp
 TEST_TARGET = tests
 
 all:
