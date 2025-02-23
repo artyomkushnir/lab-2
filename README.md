@@ -6,12 +6,8 @@
 
 st135665@student.spbu.ru
 
-**Build**
-```
-make
-```
 **Build and Run google tests**
 ```
 make tests
-./tests
+./gtests
 ```
