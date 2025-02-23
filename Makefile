@@ -3,7 +3,7 @@ CXXFLAGS = -Wall -Werror -Wpedantic -g
 TESTFLAGS = -lgtest -lgmock -pthread
 
 TEST_SRC = tests/tests.cpp
-TEST_TARGET = test
+TEST_TARGET = tests
 
 all:
 
