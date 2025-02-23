@@ -35,8 +35,8 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y cmake libgtest-dev build-essential
 
-    - name: Build tests
-      run: make tests
+    - name: Build gtests
+      run: make test
 
-    - name: Run tests
-      run: ./tests
+    - name: Run gtests
+      run: ./gtests
